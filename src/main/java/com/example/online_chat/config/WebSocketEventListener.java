@@ -15,7 +15,6 @@ import org.springframework.web.socket.config.annotation.WebSocketMessageBrokerCo
 import org.springframework.web.socket.messaging.SessionDisconnectEvent;
 
 @Component
-//@RequiredArgsConstructor
 @Slf4j
 public class WebSocketEventListener {
 
